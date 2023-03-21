@@ -7,3 +7,4 @@ Electronic Components used:
   <br>*10K potentiometer
   <br>*Resistor ladders
   <br>*LM-35 Temperature sensor
+  <br>*Piezo-Electric buzzer 
